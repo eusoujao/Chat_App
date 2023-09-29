@@ -13,7 +13,7 @@ O Chat Simulado João vs. Dani é uma aplicação web que simula uma conversa en
 
 ## Demonstração 💻
 
-Você pode experimentar uma demonstração do Chat Simulado João vs. Dani [aqui]([URL_DO_SEU_CHAT](https://eusoujao.github.io/Chat_App/)).
+Você pode experimentar uma demonstração do Chat Simulado João vs. Dani [aqui](https://eusoujao.github.io/Chat_App/).
 
 ## Observação 📢
 
